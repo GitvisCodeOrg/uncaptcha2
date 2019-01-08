@@ -58,3 +58,12 @@ As always, thanks to everyone who puts up with me, including,
 
 [dpatel19](https://github.com/dpatel19)
 
+
+### Code Visualization:
+
+Here is a cool visualization of the code evolution
+
+ [![Watch the video](https://img.youtube.com/vi/wEXraXHy-iA/0.jpg)](https://www.youtube.com/watch?v=wEXraXHy-iA)
+
+ [https://www.youtube.com/watch?v=wEXraXHy-iA](https://www.youtube.com/watch?v=wEXraXHy-iA)
+
